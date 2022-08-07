@@ -10,6 +10,12 @@
 
 -
 
+## Conformal window?
+
+![Illustration of four possible forms for the beta function: one which heads straight down from zero; one which heads down, bends back up near to zero, but then bends back down again; one which heads down from zero, then turns around and crosses zero heading upward; and one which heads straight up from zero.](images/betafunctions.svg)
+
+-
+
 ## What do we know?
 
 * 1412.5994: Single value $\beta=2.05$
