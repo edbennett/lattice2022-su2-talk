@@ -26,7 +26,9 @@
 
 ## Finite-size hyperscaling fits
 
-![Scatter plots of mass scaled by the FSHS relation, showing data aligning at different values of the anomalous dimension for each beta considered](plots/fshs.svg) <!-- .element: width="1300px" -->
+![Scatter plots of mass scaled by the FSHS relation, showing data aligning at different values of the anomalous dimension for each beta considered](plots/fshs.svg) <!-- .element: width="1200px" -->
+
+* Data consistent with fits of the Dirac mode number
 
 -
 
