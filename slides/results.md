@@ -15,7 +15,7 @@
 
 -
 
-## Finite-size hyperscaling]
+## Finite-size hyperscaling
 
 * (Near-)conformal behaviour $\Rightarrow$ scaling of state masses with PCAC mass: $$L\cdot aM_{\mathsf{X}}=f\\left(L(am_{\mathsf{PCAC}})^{1/(1+\\gamma_*)}\\right)$$
 * Fit this for unknown functional form
